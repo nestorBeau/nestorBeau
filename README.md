@@ -91,9 +91,9 @@ I authored an academic paper on **Phishing and Social Engineering** based on **r
 
 <div align="center">
 
-<img src=C:\Users\Arthu\OneDrive\Desktop\nestorBeau\image>
+![Bild](image.png)
 
-Net Sec Challenge
+- Net Sec Challenge
 
 </div>
 
