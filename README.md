@@ -11,12 +11,10 @@
 
 ---
 
-## 👤 About Me
+## About Me
 
 > *"Whenever I'm about to do something, I think 'Would an idiot do that?' And if they would, I do not do that thing."*  
 > — Dwight K. Schrute, The Office
-
-I specialize in the human component of IT security – Social Engineering, Phishing Analysis, and Security Awareness. My focus is on identifying and understanding vulnerabilities before they can be exploited.
 
 **How would I describe myself in three words?**
 - **Layer-8-specialist** – Humans are often the weakest link
@@ -37,8 +35,6 @@ I authored an academic paper on **Phishing and Social Engineering** based on **r
 - Success rates of various social engineering vectors
 - Prevention strategies and security awareness training
 - Empirical analysis of user behavior under simulated attacks
-
-This research forms the foundation of my practical understanding of the "Layer 8" problem in cyber security.
 
 ---
 
@@ -95,9 +91,9 @@ This research forms the foundation of my practical understanding of the "Layer 8
 
 <div align="center">
 
-<img src=C:\Users\Arthu\Downloads\561bda9e38ae65469a68a442fa27f2be>
+<img src=C:\Users\Arthu\OneDrive\Desktop\nestorBeau\image>
 
-- Net Sec Challenge
+Net Sec Challenge
 
 </div>
 
@@ -120,9 +116,9 @@ Questions about my projects?
 
 ###  *"Security is not a product, but a process."* — Bruce Schneier
 
-###  *"Beets. Bears. Battlestar Galactica. Cyber Security."*
+###  *"Beets. Bears. Battlestar Galactica. Cyber Security."* Jim Harper, The Office
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=nestorBeau.nestorBeau)
+![](https://komarev.com/ghpvc/?username=nestorBeau&color=blueviolet&style=for-the-badge&label=SCHRUTE+FARMS+VISITORS)
 
 </div>
 
