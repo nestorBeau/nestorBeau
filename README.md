@@ -93,8 +93,8 @@ I authored an academic paper on **Phishing and Social Engineering** based on **r
 
 ![Bild](image.png)
 
-- Net Sec Challenge
-
+- Net Sec Challenge (Vulnerability Research)
+- Capstone Challenge (Linux Privilege Escalation)
 </div>
 
 ---
