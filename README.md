@@ -89,7 +89,7 @@ I authored an academic paper on **Phishing and Social Engineering** based on **r
 
 ## Completed Boxes on THM
 
-<div align="center">
+<div align="left">
 
 ![Bild](image.png)
 
